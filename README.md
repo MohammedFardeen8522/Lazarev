@@ -1,1 +1,1 @@
-https://lazarevagencyin.netlify.app/
+https://lazarevagencein.netlify.app/
